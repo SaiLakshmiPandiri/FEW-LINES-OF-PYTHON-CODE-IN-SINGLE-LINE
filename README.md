@@ -22,7 +22,7 @@ This repository contains clean, concise, and efficient single-line Python soluti
 | 11 | Largest of Three | Conditions | `print(max(a, b, c))` | [largest_of_three.py](./Conditions_and_Logic/largest_of_three.py) |
 | 12 | Smallest of Three | Conditions | `print(min(a, b, c))` | [smallest_of_three.py](./Conditions_and_Logic/smallest_of_three.py) |
 | 13 | Count Vowels | Strings | `print(sum(c.lower() in "aeiou" for c in s))` | [count_vowels.py](./Strings/count_vowels.py) |
-| 14 | Palindrome Check | Strings | `print("Palindrome" if s == s[::-1] else "Not Palindrome")` | [palindrome_check.py](./Strings/palindrome_check.py) |
+| 14 | Palindrome Check | Strings | `print("Palindrome" if s == s[::-1] else "Not Palindrome")` | [palindrome_check.py](./Strings/Palindrome_Check.py) |
 | 15 | Reverse a String | Strings | `print(s[::-1])` | [reverse_string.py](./Strings/reverse_string.py) |
 | 16 | Remove Duplicates | Lists | `print(list(dict.fromkeys(nums)))` | [remove_duplicates.py](./Lists_and_Arrays/remove_duplicates.py) |
 | 17 | Sort a List | Lists | `print(sorted(nums))` | [sort_a_list.py](./Lists_and_Arrays/sort_a_list.py) |
